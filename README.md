@@ -2,7 +2,7 @@
 
 A self-hosted web dashboard for controlling Orbit B-Hyve smart sprinkler systems on your local network.
 
-![Dashboard Preview](screenshot.png)
+
 <img width="1421" height="863" alt="image" src="https://github.com/user-attachments/assets/96c88ab9-01a5-41ca-832a-07500a99176c" />
 
 
